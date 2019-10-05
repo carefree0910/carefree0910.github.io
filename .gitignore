@@ -1,0 +1,6 @@
+.idea/*
+.DS_Store
+*.pyc
+tests/distributed/data/*
+.vscode/*
+_*/
