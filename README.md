@@ -1,6 +1,4 @@
-## Yujian He 何宇健
-
-**GF：LXY**
+## Yujian He 何宇健（GF：LXY）
 
 Graduate student of Peking University.
 
