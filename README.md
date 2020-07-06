@@ -7,6 +7,7 @@ Graduate student of Peking University.
 ### Links
 
 + [知乎（Zhihu）](https://www.zhihu.com/people/carefree0910/activities)
++ [carefree-learn](https://github.com/carefree0910/carefree-learn)
 + [carefree-ml](https://github.com/carefree0910/carefree-ml)
 + [carefree-data](https://github.com/carefree0910/carefree-data)
 + [carefree-toolkit](https://github.com/carefree0910/carefree-toolkit)
