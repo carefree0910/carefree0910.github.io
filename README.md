@@ -11,6 +11,8 @@ Graduate student of Peking University.
 + [carefree-ml](https://github.com/carefree0910/carefree-ml)
 + [carefree-data](https://github.com/carefree0910/carefree-data)
 + [carefree-toolkit](https://github.com/carefree0910/carefree-toolkit)
++ [carefree-learn-apps](https://github.com/carefree0910/carefree-learn-apps)
++ [carefree-learn-deploy](https://github.com/carefree0910/carefree-learn-deploy)
 + [MachineLearning repo](https://github.com/carefree0910/MachineLearning)
 + [MachineLearning Blog](https://mlblog.carefree0910.me)
 
