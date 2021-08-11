@@ -1,4 +1,4 @@
-## Yujian He 何宇健 ❤ LXY
+## Yujian He 何宇健
 
 Graduate student of Peking University.
 
@@ -20,5 +20,5 @@ Graduate student of Peking University.
 |:-------------|:------------------|
 | Internship in [AI Institute of Sinovation Ventures](http://ai.chuangxin.com) | 2017.7 - 2018.3 |
 | Internship in [AInnovation](https://www.ainnovation.com) | 2018.3 - 2019.7 |
-| Master's degree in [Artificial Intelligence Innovation Center (AIIC)](http://aiic.pku.edu.cn/) | 2019.7 - now |
-
+| Master's degree in [Artificial Intelligence Innovation Center (AIIC)](http://aiic.pku.edu.cn/) | 2019.7 - 2021.7 |
+| CTO at [Nolibox](http://www.nolibox.com/) | 2021.7 - now |
