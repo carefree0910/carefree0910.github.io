@@ -7,7 +7,7 @@ Graduate student of Peking University.
 ### Links
 
 + [carefree-creator](https://github.com/carefree0910/carefree-creator)
-  + [An AI-powered creator for everyone](https://creator.nolibox.com/guest)
+  + [AI magics meet Infinite draw board](https://creator.nolibox.com/guest)
 + [知乎（Zhihu）](https://www.zhihu.com/people/carefree0910/activities)
 + [carefree-learn](https://github.com/carefree0910/carefree-learn)
 + [carefree-ml](https://github.com/carefree0910/carefree-ml)
