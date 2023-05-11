@@ -2,15 +2,14 @@
 
 Graduate student of Peking University.
 
-**syameimaru_kurumi@pku.edu.cn**
+**heyujian@nolibox.com**
 
 ### Links
 
++ [carefree-drawboard](https://github.com/carefree0910/carefree-drawboard)
 + [carefree-creator](https://github.com/carefree0910/carefree-creator)
-  + [AI magics meet Infinite draw board](https://creator.nolibox.com/guest)
 + [知乎（Zhihu）](https://www.zhihu.com/people/carefree0910/activities)
 + [carefree-learn](https://github.com/carefree0910/carefree-learn)
-+ [carefree-ml](https://github.com/carefree0910/carefree-ml)
 + [carefree-toolkit](https://github.com/carefree0910/carefree-toolkit)
 + [MachineLearning repo](https://github.com/carefree0910/MachineLearning)
 + [MachineLearning Blog](https://mlblog.carefree0910.me)
