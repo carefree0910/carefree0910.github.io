@@ -6,6 +6,7 @@ Graduate student of Peking University.
 
 ### Links
 
++ [carefree-core](https://github.com/carefree0910/carefree-core)
 + [carefree-workflow](https://github.com/carefree0910/carefree-workflow)
 + [carefree-portable](https://github.com/carefree0910/carefree-portable)
 + [carefree-drawboard](https://github.com/carefree0910/carefree-drawboard)
